@@ -1,4 +1,4 @@
 # LeetCodeTasks
-## Test message
+## SuperTest message
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MVKuzmich)
